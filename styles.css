@@ -36,3 +36,19 @@ input {
 img {
 	max-width: 300px;
 }
+
+.colorBtn {
+	width: 30%;
+	height: 1in;
+	background-color: yellow;
+}
+.placeBtn {
+	width: 30%;
+	height: 1in;
+	background-color: yellow;
+}
+.ritualBtn {
+	width: 30%;
+	height: 1in;
+	background-color: yellow;
+}
